@@ -1,0 +1,3 @@
+[submodule "Module_A/code/LaboratoryOfComputationalPhysics_Y8"]
+path = Module_A/code/LaboratoryOfComputationalPhysics_Y8
+url = git@github.com:PhyAMR/LaboratoryOfComputationalPhysics_Y8.git
