@@ -1,5 +1,8 @@
 mlreview_notebooks/
-code/DNN/DATA/
-code/DNN/ParameterTuning/
+DATA/
+ParameterTuning/
 *.pdf
 .venv
+*.csv
+*.png
+*.pkl
